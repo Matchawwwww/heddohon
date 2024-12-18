@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: heddohon
+    name: music-listening
     env: python
     region: Oregon
     plan: free
